@@ -26,7 +26,7 @@ window.addEventListener('DOMContentLoaded', async function () {
             <div data-id="${data.full_name || 'NOT_FOUND'}" onclick="window.open('https://github.com/${data.full_name || elevenvac}')" class="github mt-2 p-3 rounded-lg">
                 <div class="github-left">
                     <div class="github-title">
-                    <a style="color: gray !important">elevenvac/</a>${data.name || "RG EMİR"}
+                    <a style="color: gray !important">Krex38/</a>${data.name || "Krex"}
                     </div>
                     <div class="github-sdescription mt-1">
                     <!--<span style="width: 12px; height: 12px; border-radius: 100%; background-color: ${data.language ? colors[data.language].color : ''}; display: inline-block; top: 1px; position: relative;"></span>-->
